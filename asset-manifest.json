@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Find-Recipes/static/css/main.b355a617.css",
+    "main.js": "/Find-Recipes/static/js/main.e96b17d7.js",
+    "static/js/787.31cd0f4b.chunk.js": "/Find-Recipes/static/js/787.31cd0f4b.chunk.js",
+    "index.html": "/Find-Recipes/index.html",
+    "main.b355a617.css.map": "/Find-Recipes/static/css/main.b355a617.css.map",
+    "main.e96b17d7.js.map": "/Find-Recipes/static/js/main.e96b17d7.js.map",
+    "787.31cd0f4b.chunk.js.map": "/Find-Recipes/static/js/787.31cd0f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b355a617.css",
+    "static/js/main.e96b17d7.js"
+  ]
+}
